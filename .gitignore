@@ -1,0 +1,8 @@
+# ignore node_modules
+/node_modules
+
+# dist files
+/dist
+
+# phpstorm
+.idea/
